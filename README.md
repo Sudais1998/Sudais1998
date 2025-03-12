@@ -45,19 +45,6 @@ I’m the **Founder of [CodeSphere Academy](https://www.linkedin.com/company/cod
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-
-## 📊 **GitHub Stats**
-
-![Oladosu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KingBabz&show_icons=true&theme=radical)
-
-### 📚 **Top Languages Used**
-
-The top languages below reflect the tools and technologies I frequently use for **Data Analysis**, **Data Engineering**, and **Cloud Development**:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingBabz&layout=compact&theme=radical)
-
----
-
 ## 💡 **Key Projects**
 
 Here are some of my most impactful projects showcasing data analysis, visualization, and cloud expertise:
@@ -80,6 +67,18 @@ Here are some of my most impactful projects showcasing data analysis, visualizat
 
 ---
 
+## 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Create an IAM User in AWS](https://hashnode.com/post/how-to-create-an-iam-user-in-aws)
+- [Unlocking the Power of Data Visualization with PowerBI](https://hashnode.com/@KingBabz)
+- [Python for Data Analysis: A Beginner's Guide](https://hashnode.com/@KingBabz)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [Read more on Ibrahim’s Cloud & Data Chronicles](https://hashnode.com/@KingBabz)
+
+---
+
 ## 🏅 **Certifications**
 
 - 🎯 **Microsoft Certified PowerBI Data Analyst Associate**  
@@ -89,16 +88,28 @@ Here are some of my most impactful projects showcasing data analysis, visualizat
 - 💻 **AWS Certified Cloud Practitioner**  
 
 ---
+## 🏆 Testimonials
 
-## 🌐 **Let's Connect!**
+> "Oladosu's mentorship at CodeSphere Academy transformed my data analysis skills. His clear explanations and practical insights were invaluable!"  
+> — *Jane Doe, Data Analyst Student*
 
-I’m always open to collaborating on **Data Analysis** projects, mentoring aspiring analysts, or exploring cloud innovations. Let’s build something impactful together!  
+> "His PowerBI dashboards were not only visually appealing but also provided actionable insights for our company."  
+> — *John Smith, Business Manager*
+---
+## 🤝 Let’s Collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oladosu-ibrahim-adeniyi)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@KingBabz)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@codesphereacademy.com)  
+I’m always open to collaborating on:
+
+- 📊 **Data Analysis Projects** — Need help with data visualization, SQL queries, or PowerBI dashboards? Let’s connect!
+- ☁️ **Cloud Solutions** — Building cloud infrastructure or DevOps pipelines? I’m in!
+- 🎓 **Tech Workshops & Mentorship** — I’m passionate about teaching data and cloud skills.
+
+📧 **Email**: [info@codesphereacademy.com](mailto:info@codesphereacademy.com)  
+🌐 **LinkedIn**: [Oladosu Ibrahim](https://www.linkedin.com/in/oladosu-ibrahim-adeniyi)  
+✍️ **Blog**: [Ibrahim’s Cloud & Data Chronicles](https://hashnode.com/@KingBabz)
 
 ---
+
 
 ## ⭐ **Let's turn data into impactful insights and drive innovation through cloud technologies!**  
 
@@ -106,5 +117,5 @@ I’m always open to collaborating on **Data Analysis** projects, mentoring aspi
 
 ---
 
-**© 2025 Oladosu Sodiq Ibrahim Adeniyi**
+**© 2025 Oladosu Ibrahim Adeniyi**
 
